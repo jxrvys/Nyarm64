@@ -72,7 +72,7 @@ session with no clear error. Always re-copy `/boot/Image` and
 - Fix optional-dependency auto-install under PEP 668 (likely needs the app's
   pip-install logic patched to use `--break-system-packages` or a venv)
 
-## the provisers of my dumb obsessions
+## the providers of my dumb obsessions
 
 Built on [Arch Linux ARM](https://archlinuxarm.org/) and
 [NyarchLinux](https://github.com/NyarchLinux).
