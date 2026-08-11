@@ -27,6 +27,7 @@ This is **not** a bootable disk image. It's a root filesystem tarball bcs i cant
   chat works regardless.
 - This has **not** been tested on real ARM64 hardware — only under QEMU
   software emulation. Expect device-specific surprises that this build hasn't encountered.
+- oh yeah and it doesnt have the nyarch logo cuz i forgot
 
 ## enhancing weebness
 
