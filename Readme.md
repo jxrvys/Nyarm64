@@ -71,6 +71,7 @@ session with no clear error. Always re-copy `/boot/Image` and
 - Root-cause the Live2D avatar WebKit errors
 - Fix optional-dependency auto-install under PEP 668 (likely needs the app's
   pip-install logic patched to use `--break-system-packages` or a venv)
+- i may add more apps in the future, this was the best i could do before school started :p
 
 ## the providers of my dumb obsessions
 
