@@ -25,7 +25,7 @@ This is **not** a bootable disk image. It's a root filesystem tarball bcs i cant
   search via `llama-index`/`faiss`) fail to auto-install at runtime due to
   Python's PEP 668 "externally managed environment" protection on Arch. Core
   chat works regardless.
-- This has **not** been tested on real ARM64 hardware** — only under QEMU
+- This has **not** been tested on real ARM64 hardware — only under QEMU
   software emulation. Expect device-specific surprises that this build hasn't encountered.
 
 ## enhancing weebness
